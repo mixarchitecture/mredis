@@ -1,3 +1,5 @@
+# this repository has been moved into [cillop](https://github.com/cilloparch/cillop).
+
 # mredis
 
 mredis is a package that provides a Redis client implementation for Go.
